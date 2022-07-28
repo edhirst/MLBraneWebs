@@ -11,4 +11,18 @@ Weak equivalence: two webs are weakly equivalent if they have the same number of
 How to run:
 
 The 2x3 web matrices describing the brane webs of the two weakly and strongly equivalent datasets are saved in the files 3leg_data_X.db and 3leg_data_Y.db respectively.
-The SNN can be trained and tested by running the SNN.py file and the TDA can be obtained by running the TDA.py file. 
+The SNN can be trained and tested by running the SNN.py file and the TDA can be obtained by running the TDA.py file.    
+
+# BibTeX Citation
+``` 
+@article{Arias-Tamargo:2022qgb,
+    author = "Arias-Tamargo, Guillermo and He, Yang-Hui and Heyes, Elli and Hirst, Edward and Rodriguez-Gomez, Diego",
+    title = "{Brain Webs for Brane Webs}",
+    eprint = "2202.05845",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    reportNumber = "LIMS-2022-08",
+    month = "2",
+    year = "2022"
+}
+```
