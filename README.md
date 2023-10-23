@@ -17,12 +17,15 @@ The SNN can be trained and tested by running the SNN.py file and the TDA can be 
 ``` 
 @article{Arias-Tamargo:2022qgb,
     author = "Arias-Tamargo, Guillermo and He, Yang-Hui and Heyes, Elli and Hirst, Edward and Rodriguez-Gomez, Diego",
-    title = "{Brain Webs for Brane Webs}",
+    title = "{Brain webs for brane webs}",
     eprint = "2202.05845",
     archivePrefix = "arXiv",
     primaryClass = "hep-th",
     reportNumber = "LIMS-2022-08",
-    month = "2",
+    doi = "10.1016/j.physletb.2022.137376",
+    journal = "Phys. Lett. B",
+    volume = "833",
+    pages = "137376",
     year = "2022"
 }
 ```
